@@ -1,4 +1,4 @@
-# Games published by Crane Softwrights Ltd.
+# Games and other laser-cutting projects published by Crane Softwrights Ltd.
 
 [Board baseball](https://github.com/CraneSoftwrights/board-baseball#readme) - A board baseball game to teach the sport to spectators 
 
@@ -7,6 +7,10 @@
 ### Supporting projects
 
 [designSVG2burnFiles](https://github.com/CraneSoftwrights/designSVG2burnFiles#readme) - An XSLT stylesheet to convert declarative SVG into derivative SVG and associated burn files for a laser cutter machine.
+
+### Start your own project
+
+[PROFORMA](https://github.com/CraneSoftwrights/PROFORMA#readme) - A skeleton game / project environment implementing Crane's environment, ready to copy and begin your own work.
 
 ### Technical papers
 
